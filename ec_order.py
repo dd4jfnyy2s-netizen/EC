@@ -1,4 +1,5 @@
 # EC注文管理アプリ
+# Python / JSON / GitHubを使用
 import json
 
 class Product:
