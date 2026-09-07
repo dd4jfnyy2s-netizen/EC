@@ -1,3 +1,4 @@
+# EC注文管理アプリ
 import json
 
 class Product:
