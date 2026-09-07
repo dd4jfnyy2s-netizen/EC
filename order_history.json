@@ -1,0 +1,12 @@
+[
+    {
+        "order_id": 1,
+        "items": [
+            {
+                "name": "りんご",
+                "amount": 2
+            }
+        ],
+        "total_price": 300
+    }
+]
